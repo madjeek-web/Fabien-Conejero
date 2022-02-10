@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madjeek-web
-- 📫 How to reach me free-email-contact@protonmail.com
+- 📫 How to reach me web-agency@madjeek.fr
 
 <!---
 madjeek-web/madjeek-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

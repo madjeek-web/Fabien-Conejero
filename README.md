@@ -1,7 +1,7 @@
 ![madjeek-profile-img](https://user-images.githubusercontent.com/83957788/168566487-bb8996b8-fa25-4d9f-97b6-f782f39e6522.jpg)
 
 
-- 👋 Hi, I’m @madjeek-wizard
+- 👋 Hi, I’m @madjeek-web
 - 📫 How to reach me <<<web-agency@madjeek.fr>>>
 
 

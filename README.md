@@ -1,17 +1,20 @@
-![madjeek-wizard](https://user-images.githubusercontent.com/83957788/168867606-0d9734f6-ba37-4c1e-a6b9-58bfec83bf30.jpg)
+![madjeek-profile-img](https://user-images.githubusercontent.com/83957788/168566487-bb8996b8-fa25-4d9f-97b6-f782f39e6522.jpg)
 
 
 - 👋 Hi, I’m @madjeek-wizard
 - 📫 How to reach me <<<web-agency@madjeek.fr>>>
 
 
-![madjeek-profile-img](https://user-images.githubusercontent.com/83957788/168566487-bb8996b8-fa25-4d9f-97b6-f782f39e6522.jpg)
-
 + Follow Me
+_
 https://codepen.io/madjeek-web
+_
 https://www.flickr.com/people/madjeek/
+_
 https://twitter.com/Madjeek_Agency/
+_
 https://www.facebook.com/Madjeek-110607743881423/
+_
 https://www.behance.net/madjeek/
 
 _____

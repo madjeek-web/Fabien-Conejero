@@ -1,6 +1,6 @@
 ![madjeek-1200px-og](https://user-images.githubusercontent.com/83957788/174204965-cd246cba-6142-49c4-b722-eee34685e753.jpg)
 
-MADJEEK DIGITAL STUDIO - www.madjeek.fr - web-agency@madjeek.fr>>>
+MADJEEK DIGITAL STUDIO - www.madjeek.fr - web-agency@madjeek.fr
 
 
 https://skyline.github.com/madjeek-web/2021
